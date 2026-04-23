@@ -60,7 +60,8 @@ return (
                 </IonList>
         </IonContent>
     </IonPage>
-
+  
+  
   );
 };
 export default Feed;
